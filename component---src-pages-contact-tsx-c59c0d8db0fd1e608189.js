@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_starter_contentful_homepage_ts=self.webpackChunkgatsby_starter_contentful_homepage_ts||[]).push([[650],{6865:function(t,e,n){n.r(e),n.d(e,{default:function(){return c}});var a=n(7294),r=n(3666);function c(t){var e=t.data.contact;return a.createElement(r.Z,Object.assign({title:"お問い合わせ"},e),a.createElement(a.Fragment,null))}}}]);
-//# sourceMappingURL=component---src-pages-contact-tsx-c59c0d8db0fd1e608189.js.map
